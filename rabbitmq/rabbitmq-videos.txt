@@ -1,0 +1,1 @@
+Handling RabbitMQ Failures Gracefully with HAProxy :  https://www.youtube.com/watch?v=2HWSekbe-6w
